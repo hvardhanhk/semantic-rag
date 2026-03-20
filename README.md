@@ -75,12 +75,6 @@ semantic-rag/
 └── package.json
 ```
 
-## Resume Talking Points
-
-- *"Implemented a client-side RAG pipeline with paragraph chunking, context injection, and real-time citation extraction synchronized with LLM streaming output"*
-- *"Built a document highlighting system that parses citation markers as tokens stream in and auto-scrolls to the referenced source chunk"*
-- *"Designed a multi-turn conversational interface that maintains full history context across LLM requests"*
-
 ## License
 
 MIT
